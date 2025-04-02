@@ -3,7 +3,7 @@
 
 {
     'name': 'CRM Refresh',
-    'version': '16.0',
+    'version': '15.0',
     'summary': 'This module allows user to reload the CRM screen without refresh the webpage',
     'description': 'This module allows user to reload the CRM screen without refresh the webpage',
     'category': 'CRM',
