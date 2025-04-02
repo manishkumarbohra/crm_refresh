@@ -16,7 +16,7 @@
     "data": [
         'views/crm_refresh.xml',
     ],
-    'images': ['static/description/banner.gif'],
+    'images': ['static/description/banner.png'],
     'depends': ['crm'],
     'installable': True,
     'auto_install': False,
